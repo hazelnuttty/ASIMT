@@ -1,0 +1,14 @@
+{
+  "name": "wa-unban-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "clipboardy": "^3.0.0",
+    "inquirer": "^8.2.6",
+    "open": "^8.4.0"
+  }
+}
